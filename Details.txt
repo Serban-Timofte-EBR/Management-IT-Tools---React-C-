@@ -1,0 +1,2 @@
+DEMO Accounting is an accounting software created in C# using .NET
+The rest of the files are created in React/React Native 
